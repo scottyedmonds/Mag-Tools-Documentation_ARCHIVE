@@ -2,7 +2,7 @@
 Archive of Mag-Tools Documentation that was found at http://magtools.codeplex.com/documentation
 ------
 
-Installation:
+**Installation:**
 1. Download the dll to a directory of your choice, probably c:\games\decal plugins\ (or Documents\Decal
 Plugins)
 2. Open Decal Agent and on the right, click Add.
